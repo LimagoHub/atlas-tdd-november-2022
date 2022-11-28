@@ -20,22 +20,22 @@ set(SOURCE
 
 
 # Create test executable
-add_executable(BlankCMakeProjectTest ${SOURCE} ${HEADER}  )
+add_executable(StapelCMakeProjectTest ${SOURCE} ${HEADER}  )
 
 
 
 
 # Linking
-target_link_libraries(BlankCMakeProjectTest PRIVATE gtest gmock)
+target_link_libraries(StapelCMakeProjectTest PRIVATE gtest gmock)
 
 # Mark it as test executable for CMake
-add_test(NAME BlankCMakeProjectTest COMMAND BlankCMakeProjectTest)
+add_test(NAME StapelCMakeProjectTest COMMAND StapelCMakeProjectTest)
 
 # Push it to tests
-set_target_properties(BlankCMakeProjectTest PROPERTIES FOLDER Tests)
+set_target_properties(StapelCMakeProjectTest PROPERTIES FOLDER Tests)
 
 # Build tests where other libraries reside
-set_target_properties(BlankCMakeProjectTest
+set_target_properties(StapelCMakeProjectTest
 	PROPERTIES
 	ARCHIVE_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/$<CONFIG>"
 	LIBRARY_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/$<CONFIG>"

@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.12)
 
-project(BlankCMakeProject)
+project(StapelCMakeProject)
 
 
 set(CMAKE_CXX_STANDARD 17)
@@ -11,9 +11,9 @@ set(PROJ_CONFIG $<CONFIG>)
 
 
 add_executable(
-	BlankCMakeProject 
+	StapelCMakeProject 
 	source/main.cpp  
-)
+ "source/stapel_exception.h" "source/stapel.h" "source/stapel.cpp")
 
 
 # Add tests
