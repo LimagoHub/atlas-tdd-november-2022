@@ -2,6 +2,7 @@
 
 void stapel::push(int value)
 {
+	
 	if (is_full()) {
 		throw stapel_exception{ "Overflow" };
 	}
