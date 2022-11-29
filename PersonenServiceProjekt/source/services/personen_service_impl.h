@@ -1,7 +1,7 @@
 #pragma once
 #include "../persistence/person.h"
 #include "../persistence/personen_repository.h"
-
+#include "personen_service_exception.h"
 class personen_service_impl // :public personen_service
 {
 	personen_repository& repo;
@@ -26,6 +26,7 @@ public:
 	*/
 	void speichern(person& person_)
 	{
-		
+		if(person_.get_vorname().length() < 2)
+			throw personen_service_exception{ "Vorname zu kurz" };
 	}
 };
