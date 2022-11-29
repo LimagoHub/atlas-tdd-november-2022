@@ -13,11 +13,8 @@ public:
 	void go()
 	{
 		
-		std::cout << "Summe = " << calc.add(4.0, 4.0) << std::endl;
-		
-		
-	
-		
+		std::cout << "Summe = " << calc.add(2.0, 4.0) << std::endl;
+			
 		
 	}
 };

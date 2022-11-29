@@ -11,7 +11,7 @@ using namespace testing;
 class calc_client_test :public Test
 {
 protected:
-	Mockcalculator calculatorMock;
+	NiceMock<Mockcalculator> calculatorMock;
 	calc_client object_under_test{calculatorMock};
 
 
