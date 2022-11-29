@@ -13,7 +13,7 @@ set(PROJ_CONFIG $<CONFIG>)
 add_executable(
 	SchweinProject 
 	source/main.cpp  
- "source/schwein.h")
+ "source/schwein.h" "source/stapel.h" "source/calculator.h" "source/clac_client.h" "source/calculator_impl.h")
 
 
 # Add tests
