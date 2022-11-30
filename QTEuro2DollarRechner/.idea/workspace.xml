@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Euro2Dollar" targetName="gtest" />
+      <config projectName="Euro2Dollar" targetName="gmock" />
+      <config projectName="Euro2Dollar" targetName="gtest_autogen" />
+      <config projectName="Euro2Dollar" targetName="Euro2DollarTest_autogen" />
+      <config projectName="Euro2Dollar" targetName="gmock_main_autogen" />
+      <config projectName="Euro2Dollar" targetName="Euro2Dollar_autogen" />
+      <config projectName="Euro2Dollar" targetName="Euro2DollarTest" />
+      <config projectName="Euro2Dollar" targetName="gtest_main" />
+      <config projectName="Euro2Dollar" targetName="Euro2Dollar" />
+      <config projectName="Euro2Dollar" targetName="gmock_autogen" />
+      <config projectName="Euro2Dollar" targetName="gtest_main_autogen" />
+      <config projectName="Euro2Dollar" targetName="gmock_main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-Visual Studio" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Visual Studio" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b3bbc18-b5fb-411b-bc8f-a8d64548d556" name="Changes" comment="Uebung">
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MSVC2019_64bit-Debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MSVC2019_64bit-Debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MSVC2019_64bit-Debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/cache-v2-0363a648668f14217ccb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/cmakeFiles-v1-f08e7504ad0d830f9a5f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/codemodel-v2-3bf9c1b51207ce7d7377.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/directory-tests-Debug-70e4927a02b591d5c1f8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/directory-tests.google-Debug-8630115b7a37cb04dbde.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/directory-tests.google.googlemock-Debug-d351722b5c5b0382eb78.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/directory-tests.google.googletest-Debug-6a271c8fcd8911e5e829.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/index-2022-11-30T07-05-19-0675.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-Euro2Dollar-Debug-f9af8b7656e1376e65fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-Euro2DollarTest-Debug-f1598bbfd2c769ebea5e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-Euro2DollarTest_autogen-Debug-37e5b1cd455cb1ab3595.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-Euro2DollarTest_autogen_timestamp_deps-Debug-a9dc836e820fc7f3f1bc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-Euro2Dollar_autogen-Debug-d704b0fed2642e494308.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-Euro2Dollar_autogen_timestamp_deps-Debug-f85f615a50c51d2dfe23.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-gmock-Debug-eddcae708086e46d8be5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-gmock_autogen-Debug-718a895887bc973a81f8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-gmock_autogen_timestamp_deps-Debug-50a4d785857d9c062a8d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-gmock_main-Debug-92e07e50dddac3030f56.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-gmock_main_autogen-Debug-dd7969cf0c46b06d5b91.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-gmock_main_autogen_timestamp_deps-Debug-62d517ffd152d84a5049.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-gtest-Debug-20d7f7b4ebd5f63bfc28.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-gtest_autogen-Debug-d5d657e08e287de22e29.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-gtest_autogen_timestamp_deps-Debug-89a746730cce7120e6c0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-gtest_main-Debug-09a7c310f1070c640148.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-gtest_main_autogen-Debug-76839bb783864be02209.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.cmake/api/v1/reply/target-gtest_main_autogen_timestamp_deps-Debug-7f959af561080ad525ec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/Euro2Dollar_autogen.dir/AutogenInfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/Euro2Dollar_autogen.dir/AutogenUsed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/Euro2Dollar_autogen.dir/ParseCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/clean_additional.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Euro2Dollar_autogen/EWIEGA46WW/moc_mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Euro2Dollar_autogen/deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Euro2Dollar_autogen/include/ui_mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Euro2Dollar_autogen/moc_predefs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Euro2Dollar_autogen/mocs_compilation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Euro2Dollar_autogen/timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/qtcsettings.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/CMakeFiles/Euro2DollarTest_autogen.dir/AutogenInfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/CMakeFiles/Euro2DollarTest_autogen.dir/AutogenUsed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/CMakeFiles/Euro2DollarTest_autogen.dir/ParseCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/Euro2DollarTest_autogen/deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/Euro2DollarTest_autogen/moc_predefs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/Euro2DollarTest_autogen/mocs_compilation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/Euro2DollarTest_autogen/timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/CTestTestfile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/AutogenInfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/AutogenUsed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/ParseCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/AutogenInfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googlemock/CTestTestfile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googlemock/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googlemock/gmock_autogen/deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googlemock/gmock_autogen/moc_predefs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googlemock/gmock_autogen/mocs_compilation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googlemock/gmock_autogen/timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/CMakeFiles/Export/lib/cmake/GTest/GTestTargets-debug.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/CMakeFiles/Export/lib/cmake/GTest/GTestTargets.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/CMakeFiles/gtest_autogen.dir/AutogenInfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/CMakeFiles/gtest_autogen.dir/AutogenUsed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/CMakeFiles/gtest_autogen.dir/ParseCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/AutogenInfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/CTestTestfile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/generated/GTestConfig.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/generated/GTestConfigVersion.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/generated/gmock.pc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/generated/gmock_main.pc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/generated/gtest.pc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/generated/gtest_main.pc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/gtest_autogen/deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/gtest_autogen/moc_predefs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/gtest_autogen/mocs_compilation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build-QTEuro2DollarRechner-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/tests/google/googletest/gtest_autogen/timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PersonenServiceProjekt/tests/personen_service_impl_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../PersonenServiceProjekt/tests/personen_service_impl_test.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-Visual Studio" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29vxa28HkOJc5OUyxwjJAMuPs8q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager" selected="CMake Application.Euro2DollarTest">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="euro_to_dollar_presenter_impl_test.rechnen__gueltige_zahl__eurovalue_passed_to_service" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" CONFIG_NAME="Debug-Visual Studio" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="rechnen__gueltige_zahl__eurovalue_passed_to_service" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="euro_to_dollar_presenter_impl_test.rechnen__happy_day__result_in_dollarfield" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" CONFIG_NAME="Debug-Visual Studio" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="rechnen__happy_day__result_in_dollarfield" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="euro_to_dollar_presenter_impl_test.rechnen__unexcpected_exception_in_underlying_service__error_message_in_dollar_field" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" CONFIG_NAME="Debug-Visual Studio" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="rechnen__unexcpected_exception_in_underlying_service__error_message_in_dollar_field" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="euro_to_dollar_presenter_impl_test.update_rechnen_action_state__NAN_in_Eurofield__rechnen_disabled" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" CONFIG_NAME="Debug-Visual Studio" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="update_rechnen_action_state__NAN_in_Eurofield__rechnen_disabled" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="euro_to_dollar_presenter_impl_test.update_rechnen_action_state__valid_number_in_Eurofield__rechnen_enabled" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" CONFIG_NAME="Debug-Visual Studio" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="update_rechnen_action_state__valid_number_in_Eurofield__rechnen_enabled" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Euro2Dollar" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2Dollar" CONFIG_NAME="Debug-Visual Studio" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2Dollar">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Euro2DollarTest" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" CONFIG_NAME="Debug-Visual Studio" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Euro2DollarTest" />
+      <item itemvalue="CMake Application.Euro2Dollar" />
+      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__gueltige_zahl__eurovalue_passed_to_service" />
+      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__unexcpected_exception_in_underlying_service__error_message_in_dollar_field" />
+      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__happy_day__result_in_dollarfield" />
+      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__NAN_in_Eurofield__rechnen_disabled" />
+      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__valid_number_in_Eurofield__rechnen_enabled" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__valid_number_in_Eurofield__rechnen_enabled" />
+        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__NAN_in_Eurofield__rechnen_disabled" />
+        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__happy_day__result_in_dollarfield" />
+        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__unexcpected_exception_in_underlying_service__error_message_in_dollar_field" />
+        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__gueltige_zahl__eurovalue_passed_to_service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b3bbc18-b5fb-411b-bc8f-a8d64548d556" name="Changes" comment="" />
+      <created>1654007422250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654007422250</updated>
+      <workItem from="1654007424352" duration="3641000" />
+      <workItem from="1654018257241" duration="2081000" />
+      <workItem from="1654066429662" duration="1596000" />
+      <workItem from="1654085635647" duration="1589000" />
+      <workItem from="1654242338747" duration="1667000" />
+      <workItem from="1665125847832" duration="2455000" />
+      <workItem from="1666159641277" duration="3087000" />
+      <workItem from="1666171269277" duration="8556000" />
+      <workItem from="1669791769605" duration="2022000" />
+    </task>
+    <task id="LOCAL-00001" summary="Letzter Stand">
+      <created>1654017415364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654017415364</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Letzter Stand">
+      <created>1654017444562</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654017444562</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Letzter Stand (Bugfixed)">
+      <created>1654017560821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654017560821</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Uebung">
+      <created>1666172261689</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666172261689</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Letzter Stand" />
+    <MESSAGE value="Letzter Stand (Bugfixed)" />
+    <MESSAGE value="Uebung" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uebung" />
+  </component>
+</project>
