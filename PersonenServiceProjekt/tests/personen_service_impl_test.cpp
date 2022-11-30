@@ -70,7 +70,7 @@ TEST_F(personen_service_impl_test, speichern__happy_day__person_passed_to_repo)
 	object_under_test.speichern(valid_person);
 
 	
-	EXPECT_EQ("Jane", captured_person.get_vorname());
+	EXPECT_THAT( captured_person.get_vorname(), AnyOf(StartsWith("J"), StartsWith("M")));
 	EXPECT_EQ("Doe", captured_person.get_nachname());
 		
 }
