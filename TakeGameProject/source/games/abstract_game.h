@@ -53,7 +53,10 @@ private:
     }
 
     void execute_move()  { // command, operation
-        do move = getCurrentPlayer()->do_turn(board); while(players_move_is_invalid());
+        do {
+            move = getCurrentPlayer()->do_turn(board);
+        }
+        while(players_move_is_invalid());
     }
 
     bool players_move_is_invalid() { // query
